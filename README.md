@@ -1,1 +1,1 @@
-# RISC-V-CPU-core-using-TL-Verilog
+# RISC-V-CPU core using TL-Verilog
